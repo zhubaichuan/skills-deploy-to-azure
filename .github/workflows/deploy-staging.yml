@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <zhubaichuan>-azure-ttt
-  AZURE_WEBAPP_NAME: <zhubaichuan>-ttt-app
+  DOCKER_IMAGE_NAME: zhubaichuan-azure-ttt
+  AZURE_WEBAPP_NAME: zhubaichuan-ttt-app
   ###############################################
 
 jobs:
